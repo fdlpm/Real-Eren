@@ -1,0 +1,21 @@
+{
+  "name": "real-eren",
+  "version": "1.0.0",
+  "description": "This package prints ASCII art of the real Eren from Attack on Titan chapter 139.",
+  "type": "module",
+  "main": "index.js",
+  "module": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fdlpm/Real-Eren.git"
+  },
+  "author": "fdlpm",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fdlpm/Real-Eren/issues"
+  },
+  "homepage": "https://github.com/fdlpm/Real-Eren#readme"
+}
